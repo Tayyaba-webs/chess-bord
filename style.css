@@ -1,0 +1,19 @@
+.xyz {
+    display: grid;
+    grid-template-columns: repeat(8 100px);
+    grid-template-rows: repeat(8 100px);
+    border: collape;
+}
+.a {
+    border: 5px solid black;
+    height: 60px;
+    width: 60px;
+}
+.p {
+    background-color: white;
+}
+.m {
+    background-color: wheat;
+}
+
+
